@@ -59,7 +59,7 @@ Typically, a product and service-based business always need their Data Scientist
 
 ## Requirements
 
-- Python 3.x
+- Python 3.0 or above.
 - Jupyter Notebook or JupyterLab
 - Common Data Science libraries:
     - numpy
